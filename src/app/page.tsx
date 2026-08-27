@@ -11,7 +11,7 @@ type Product = {
 
 const products: Product[] = [
   {
-    name: "愛文芒果禮盒促銷",
+    name: "愛文芒果禮盒",
     tagline: "3公斤裝，甜度16度以上，送禮首選",
     price: "NT$680",
     unit: "/ 盒",
